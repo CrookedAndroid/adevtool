@@ -27,3 +27,4 @@ filters:
       # Required for building ARM NN HAL
       - vendor/lib/libOpenCL.so
       - vendor/lib64/libOpenCL.so
+      - vendor/etc/permissions/vendor.android.hardware.camera.preview-dis.xml
